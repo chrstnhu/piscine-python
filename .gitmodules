@@ -1,3 +1,6 @@
 [submodule "piscine-python_module00"]
 	path = piscine-python_module00
 	url = git@github.com:chrstnhu/piscine-python_module00.git
+[submodule "piscine-python_module01"]
+	path = piscine-python_module01
+	url = git@github.com:chrstnhu/piscine-python_module01.git
